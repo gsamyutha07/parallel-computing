@@ -1,0 +1,6 @@
+# Compiled programs
+task1/task1
+task2/task2
+#Editor temporary files
+*.swp
+*.save
